@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ian\.android\build-cache\020c943f213f80d500079d8ae3bf1d6c2f6eb2d0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Ian\AndroidStudioProjects\Hack\app\build\intermediates\pre-dexed\release\classes_c990b11c13d2b788cbb1de07c17307b7609df47c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ian\.android\build-cache\36b12f950d1f9353ae65863773c3951a8796d260\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="C:\Users\Ian\AndroidStudioProjects\Hack\app\build\intermediates\pre-dexed\release\classes_67fd37af13da286c17e6b950c74d03fd5654c2d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ian\.android\build-cache\3a086ebaff62cea368fcc4047eef797184ad0acd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="C:\Users\Ian\AndroidStudioProjects\Hack\app\build\intermediates\pre-dexed\release\classes_c5d37812bb38fbc1772a272a77b3fc04632fc2e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ian\.android\build-cache\c49ff3e3edd6301bbabbdd3a0cc9ef7c6f4c346a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="C:\Users\Ian\AndroidStudioProjects\Hack\app\build\intermediates\pre-dexed\release\classes_88d1095a7914d2670c13fa88c0b8ba22bcd5e7c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ian\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Ian\AndroidStudioProjects\Hack\app\build\intermediates\pre-dexed\release\constraint-layout-solver-1.0.2_f2796c0048ae81a824513d0b3a3c3b4d6facdb60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ian\.android\build-cache\2cad984dc64580b11c4760504e352651d61296be\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="C:\Users\Ian\AndroidStudioProjects\Hack\app\build\intermediates\pre-dexed\release\classes_0fe2b92d7157c4c72a97c6e2727805eb76ab7253.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ian\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="C:\Users\Ian\AndroidStudioProjects\Hack\app\build\intermediates\pre-dexed\release\support-annotations-25.3.0_38668a9fefc06e1d889dcf2b7b05a1b1e6571c5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ian\.android\build-cache\c133220062640ea507da7c48f646bed05699dbc0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="C:\Users\Ian\AndroidStudioProjects\Hack\app\build\intermediates\pre-dexed\release\classes_fa19255a710c5f321420d245250e848f829234cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ian\.android\build-cache\b4c7e5ffb971afc60e8b7f383a16c720d60ec49c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="C:\Users\Ian\AndroidStudioProjects\Hack\app\build\intermediates\pre-dexed\release\classes_ca6e916ac5770933123ba97e8db26c33f81caf38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ian\.android\build-cache\bc8a77ffaa1c4133f2a2c6d29ad8981416435d65\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Ian\AndroidStudioProjects\Hack\app\build\intermediates\pre-dexed\release\classes_0b9851c02336888677cb45a331e6e07704afe9d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ian\.android\build-cache\3c10a33bef96d2b0752d86235de70d0480e7edd7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="C:\Users\Ian\AndroidStudioProjects\Hack\app\build\intermediates\pre-dexed\release\classes_c64de4f71be88ec33cc862869cfe3ac11dcb3527.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ian\.android\build-cache\260eca6a32c2d110c72dd31494d32196f0497181\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="C:\Users\Ian\AndroidStudioProjects\Hack\app\build\intermediates\pre-dexed\release\classes_702dd1e347d122012b134d9b85074c59653bedef.jar" />
+    </item>
+
+</items>
